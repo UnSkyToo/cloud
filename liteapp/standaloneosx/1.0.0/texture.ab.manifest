@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2593946153
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 209b6098787000788ef1f37fa4b0cbad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 209b6098787000788ef1f37fa4b0cbad
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/StandaloneAssets/Texture/white.png
+Dependencies: []
