@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 478550652
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets/textmesh pro/shaders.ab
+      Dependencies: {}
+    Info_1:
+      Name: assets/textmesh pro/fonts.ab
+      Dependencies: {}
+    Info_2:
+      Name: assets/textmesh pro/resources/fonts & materials.ab
+      Dependencies:
+        Dependency_0: assets/textmesh pro/shaders.ab
+        Dependency_1: assets/textmesh pro/fonts.ab
+    Info_3:
+      Name: texture.ab
+      Dependencies: {}
+    Info_4:
+      Name: prefab.ab
+      Dependencies:
+        Dependency_0: assets/textmesh pro/shaders.ab
+        Dependency_1: assets/textmesh pro/fonts.ab
+        Dependency_2: assets/textmesh pro/resources/fonts & materials.ab
+        Dependency_3: texture.ab
